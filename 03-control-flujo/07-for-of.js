@@ -1,4 +1,5 @@
-// Se utiliza para iterar un listado de elementos
+// Se utiliza para iterar un listado de elementos, 
+// sin necesitar indices
 
 let animales = ['Chanchito feliz', 'Dragón', 'Perrito'];
 

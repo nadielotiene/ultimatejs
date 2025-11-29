@@ -1,3 +1,5 @@
+<!-- https://www.youtube.com/watch?v=QoC4RxNIs5M&t=54s -->
+
 Declaration = let, const, function, function*, async function, class, export/import.
 
 Statements = if, for, else, switch.
