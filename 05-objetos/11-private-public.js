@@ -21,6 +21,7 @@ usuario.log = function() {
 }
 // usuario.name;
 // usuario.log();
+
 usuario.guardar();
 
 
